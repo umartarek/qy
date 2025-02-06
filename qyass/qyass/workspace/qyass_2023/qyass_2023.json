@@ -1,0 +1,344 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"PqWsUzYyiT\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">\u0642\u064a\u0627\u0633 23</span>\",\"col\":12}},{\"id\":\"up7rCmsJ27\",\"type\":\"card\",\"data\":{\"card_name\":\"Reports\",\"col\":4}},{\"id\":\"9GzJjJZ4PD\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Organization Entry Report Kanban\",\"col\":4}},{\"id\":\"aOVld9q1Mo\",\"type\":\"card\",\"data\":{\"card_name\":\"Dashboards\",\"col\":4}},{\"id\":\"1fhMTcQx_b\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"0yeW_7Dv-D\",\"type\":\"card\",\"data\":{\"card_name\":\"Organization Entry Card\",\"col\":3}},{\"id\":\"_I3O5OeO-J\",\"type\":\"card\",\"data\":{\"card_name\":\"New Docs\",\"col\":4}},{\"id\":\"ZNaAn_0y5-\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"WtbDsJtma3\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0625\u0639\u062f\u0627\u062f\u0627\u062a\",\"col\":3}},{\"id\":\"fTSRZPDl5D\",\"type\":\"card\",\"data\":{\"card_name\":\"Organization\",\"col\":3}},{\"id\":\"k2mmhg_fsm\",\"type\":\"card\",\"data\":{\"card_name\":\"Project\",\"col\":3}},{\"id\":\"XwL_3-6Gtn\",\"type\":\"card\",\"data\":{\"card_name\":\"Standards\",\"col\":3}}]",
+ "creation": "2023-12-06 16:40:01.073481",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "projects",
+ "idx": 0,
+ "indicator_color": "",
+ "is_hidden": 1,
+ "label": "Qyass-2023",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Project",
+   "link_count": 2,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Project",
+   "link_count": 0,
+   "link_to": "Project",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Project Document",
+   "link_count": 0,
+   "link_to": "Project Document",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0625\u0639\u062f\u0627\u062f\u0627\u062a",
+   "link_count": 7,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0646\u0634\u0627\u0637",
+   "link_count": 0,
+   "link_to": "Activity",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u0646\u0637\u0642\u0629",
+   "link_count": 0,
+   "link_to": "Region",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u062f\u064a\u0646\u0629",
+   "link_count": 0,
+   "link_to": "City",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0637\u0628\u064a\u0639\u0629 \u0627\u0644\u062c\u0647\u0629",
+   "link_count": 0,
+   "link_to": "Entity",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0623\u0646\u0648\u0627\u0639 \u0627\u0644\u0625\u062b\u0628\u0627\u062a\u0627\u062a",
+   "link_count": 0,
+   "link_to": "Implementations Type",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0623\u0646\u0648\u0627\u0639 \u0627\u0644\u0633\u0646\u062f \u0627\u0644\u0646\u0638\u0627\u0645\u064a",
+   "link_count": 0,
+   "link_to": "Legal Document Type",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0648\u0638\u0627\u0626\u0641",
+   "link_count": 0,
+   "link_to": "Jobs",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Organization",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Organization",
+   "link_count": 0,
+   "link_to": "Organization",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employee",
+   "link_count": 0,
+   "link_to": "Employee",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Departments",
+   "link_count": 0,
+   "link_to": "Department",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Organization Entry Card",
+   "link_count": 1,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Organization Entry",
+   "link_count": 0,
+   "link_to": "Organization Entry",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Standards",
+   "link_count": 2,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Standards",
+   "link_count": 0,
+   "link_to": "Standards",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Standard Group",
+   "link_count": 0,
+   "link_to": "Standard Group",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Dashboards",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u0624\u0634\u0631\u0627\u062a \u0627\u0644\u0627\u062f\u0627\u0621",
+   "link_count": 0,
+   "link_to": "dashboard-view",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u0624\u0634\u0631\u0627\u062a \u0627\u0644\u0627\u062f\u0627\u0621 \u0644\u0643\u0644 \u0645\u0648\u0638\u0641",
+   "link_count": 0,
+   "link_to": "employee-kanban",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u0624\u0634\u0631\u0627\u062a \u0627\u0644\u0627\u062f\u0627\u0621 \u0644\u0643\u0644 \u0627\u062f\u0627\u0631\u0629",
+   "link_count": 0,
+   "link_to": "department-kanban",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "New Docs",
+   "link_count": 2,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u062d\u0627\u0636\u0631 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639",
+   "link_count": 0,
+   "link_to": "Projects Meeting",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0644\u062c\u0627\u0646 \u0627\u0644\u062d\u0648\u0643\u0645\u0629",
+   "link_count": 0,
+   "link_to": "Governance committees",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Reports",
+   "link_count": 4,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Elements",
+   "link_count": 0,
+   "link_to": "Standard Group Elements",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Organization Entry Report",
+   "link_count": 0,
+   "link_to": "elements-page",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Organization Entry Report with Filters",
+   "link_count": 0,
+   "link_to": "elements-page-filter",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0645\u062a\u0627\u062e\u0631\u0629",
+   "link_count": 0,
+   "link_to": "Late Elements",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-09-09 08:45:41.997576",
+ "modified_by": "Administrator",
+ "module": "Qyass",
+ "name": "Qyass-2023",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 10.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "Kanban",
+   "kanban_board": "Organization Entry Records One",
+   "label": "Organization Entry Report Kanban",
+   "link_to": "Organization Entry Records",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Qyass-2023"
+}
